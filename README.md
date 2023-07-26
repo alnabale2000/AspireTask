@@ -12,7 +12,10 @@
 
 ## Additional Notes
 
-1. The HTML structure of the burger is very flexible. You can easily add, remove, or change the order of the burger components by modifying the HTML. 
+1. The HTML structure of the burger is very flexible. You can easily add, remove, or change the order of the burger components by modifying the HTML.
+
+2. To make the design more realistic, linear gradients and box shadows were used.
+
 
 ## Considerations
 
