@@ -2,7 +2,7 @@
 
 ## CSS Techniques Used 
 
-1. **Flexbox**: 
+1. **Flexbox**
 
 2. **Media Queries**: Two breakpoints were defined at 576px and 400px.
 
